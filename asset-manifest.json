@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/july_signup/static/css/main.ae9eb3f4.css",
+    "main.js": "/july_signup/static/js/main.e77cc760.js",
+    "index.html": "/july_signup/index.html",
+    "main.ae9eb3f4.css.map": "/july_signup/static/css/main.ae9eb3f4.css.map",
+    "main.e77cc760.js.map": "/july_signup/static/js/main.e77cc760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9eb3f4.css",
+    "static/js/main.e77cc760.js"
+  ]
+}
